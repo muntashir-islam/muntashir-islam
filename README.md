@@ -1,46 +1,110 @@
-# 👋 Hi, I'm Muntashir Islam
+<!-- HEADER -->
+<h1 align="center">👋 Hi, I'm <strong>Muntashir Islam</strong></h1>
+<h3 align="center">DevOps • Platform Engineer • Cloud & Kubernetes Specialist</h3>
 
-### 🚀 DevOps | Platform Engineering | Cloud Infrastructure
-I design and build scalable cloud platforms using **AWS**, **Azure**, **Kubernetes**, **Terraform**, **ArgoCD**, and automation tooling in **Python/Go**.
-
----
-
-## 🔧 Skills & Tools
-**Cloud:** AWS • Azure  
-**Containers:** Kubernetes (EKS/AKS), Helm, Kustomize  
-**IaC:** Terraform, Terragrunt  
-**GitOps:** ArgoCD, ApplicationSets, Rollouts  
-**CI/CD:** GitHub Actions, GitLab, Azure DevOps  
-**Languages:** Python, Go  
-**Observability:** Prometheus, Grafana, Loki, OpenTelemetry  
-**Security:** IAM, RBAC, Key Vault, Secrets Manager, Workload Identity  
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-blue?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-Expert-brightgreen?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/IaC-Terraform%20%7C%20GitOps-orange?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Automation-Python%20%7C%20Go-yellow?style=for-the-badge"></a>
+</p>
 
 ---
 
-## 📘 Featured Projects
+## 🚀 About Me
 
-### 🔹 **Postgres Backup Operator (Go)**
-A Kubernetes operator that schedules automated PostgreSQL backups to S3/Azure Blob.  
-➡️ Go • Operator SDK • CRDs • Controller runtime
+I'm a **DevOps / Platform Engineer** specializing in building scalable, secure, and automated cloud platforms using:
 
-### 🔹 **AKS Production Architecture**
-Terraform-based hub–spoke AKS architecture with private networking, ACR, AGIC, and GitOps.  
-➡️ Azure • Terraform • AKS • Private Link
+- **AWS & Azure architecture**
+- **Kubernetes (AKS/EKS)** at production scale  
+- **Infrastructure as Code (Terraform, Terragrunt)**  
+- **GitOps platforms (ArgoCD, ApplicationSets, Rollouts)**  
+- **CI/CD automation (GitHub Actions, Azure DevOps, GitLab)**  
+- **Python + Go for cloud-native tooling**
 
-### 🔹 **Dev Portal Platform**
-Internal Developer Platform with Backstage + ArgoCD + Terraform golden paths.  
-➡️ Platform Engineering • GitOps • Backstage
-
----
-
-## 🏗️ What I'm Learning
-- Kubernetes Operators  
-- Go for Platform Engineering  
-- Multi-cloud GitOps  
-- Azure Architect Expert (AZ-305)
+I focus on simplifying developer workflows, improving reliability, and creating internal platforms that make engineering teams faster and more productive.
 
 ---
 
-## 📫 Contact
-Feel free to reach out for collaboration or interesting DevOps/Platform engineering roles!
+## 🧰 Tech Stack & Tools
 
+### **Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="45"/>
+</p>
+
+### **Containers & Orchestration**
+<p>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker" height="45"/>
+</p>
+
+### **IaC, GitOps & Automation**
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform,githubactions,gitlab,bash" height="45"/>
+</p>
+
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go" height="45"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 **1. Postgres Backup Operator (Go)**
+A Kubernetes operator that automates PostgreSQL backups to S3/Azure Blob with CRDs and reconciliation loops.  
+➡️ Operator SDK • Go • Controller Runtime • CRDs
+
+---
+
+### 🔹 **2. AKS Production Architecture (Terraform)**
+Enterprise-grade AKS with:
+- Hub–Spoke network  
+- Private AKS  
+- Application Gateway Ingress Controller (AGIC)  
+- Azure Container Registry (private endpoint)  
+- GitOps with ArgoCD  
+➡️ Azure • Terraform • Kubernetes • ArgoCD
+
+---
+
+### 🔹 **3. Dev Portal Platform (Backstage + GitOps)**
+Internal Developer Platform providing:
+- Self-service environment creation  
+- Golden paths (Terraform + Helm templates)  
+- Automated deployments via GitOps  
+➡️ Backstage • ArgoCD • Terraform • Platform Engineering
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muntashir&theme=tokyonight" width="55%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntashir&layout=compact&theme=tokyonight" width="40%"/>
+</p>
+
+---
+
+## 🎯 Currently Working On
+
+- Building Kubernetes Operators in **Go**
+- Advanced Azure architecture (networking, identity, AKS)
+- Multi-cloud GitOps with EKS + AKS  
+- Platform Engineering tooling (Backstage, golden paths)
+
+---
+
+## 📫 Contact Me
+
+- **LinkedIn:** https://linkedin.com/in/muntashir.islam 
+- **Email:** islam.muntashir@gmail.com 
+- Open to: **Senior DevOps • Platform Engineer • Cloud Engineering • SRE roles**
+
+---
+
+⭐ **If you like my work, consider giving my repos a star!**
