@@ -47,14 +47,6 @@ I am a **Platform-focused SRE** dedicated to building resilient distributed syst
 * **Chaos Engineering Framework:** Implementing LitmusChaos experiments into CI/CD pipelines to validate service resilience against pod evictions and network latency.
 * **Multi-Cloud GitOps Controller:** Building a custom controller in Go to synchronize secrets and configurations across disparate EKS and AKS environments seamlessly.
 
----
-
-## 📊 Performance & Impact
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muntashir-islam&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntashir-islam&layout=compact&theme=tokyonight" width="45%"/>
-</p>
 
 ---
 
