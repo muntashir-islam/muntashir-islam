@@ -52,8 +52,8 @@ I am a **Platform-focused SRE** dedicated to building resilient distributed syst
 ## 📊 Performance & Impact
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muntashir&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntashir&layout=compact&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muntashir-islam&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntashir-islam&layout=compact&theme=tokyonight" width="45%"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@ I am a **Platform-focused SRE** dedicated to building resilient distributed syst
 
 - **LinkedIn:** [linkedin.com/in/muntashir-islam](https://linkedin.com/in/muntashir.islam)
 - **Email:** [islam.muntashir@gmail.com](mailto:islam.muntashir@gmail.com)
-- **Availability:** Open to discussing **Senior SRE, Platform Architect, or Cloud Engineering** opportunities.
+- **Availability:** Open to discussing **Senior SRE, Platform Engineer, DevOps or Cloud Engineering** opportunities.
 
 ---
 <p align="center"><i>"Automate everything, document the rest."</i></p>
