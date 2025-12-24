@@ -1,112 +1,75 @@
-depend on this file can you update my github page
-
-<!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <strong>Muntashir Islam</strong></h1>
-<h3 align="center">DevOps • Platform Engineer • Cloud & Kubernetes Specialist</h3>
+<h3 align="center">Senior Site Reliability Engineer • Platform Engineer • Cloud & Kubernetes Specialist</h3>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-blue?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-Expert-brightgreen?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/IaC-Terraform%20%7C%20GitOps-orange?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Automation-Python%20%7C%20Go-yellow?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-blue?style=for-the-badge&logo=microsoftazure"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-Expert-brightgreen?style=for-the-badge&logo=kubernetes"></a>
+  <a href="#"><img src="https://img.shields.io/badge/IaC-Terraform%20%7C%20Pulumi-orange?style=for-the-badge&logo=terraform"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Automation-Python%20%7C%20Go-yellow?style=for-the-badge&logo=go"></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Overview
 
-I'm a **DevOps / SRE / Platform Engineer** specializing in building scalable, secure, and automated cloud platforms using:
+I am a **Platform-focused SRE** dedicated to building resilient distributed systems. I specialize in bridging the gap between development and operations by creating **Internal Developer Platforms (IDPs)** that reduce cognitive load and accelerate delivery.
 
-- **AWS, GCP & Azure architecture**
-- **Kubernetes (AKS/EKS/GKE)** at production scale  
-- **Infrastructure as Code (Terraform, Pulumi)**  
-- **GitOps platforms (ArgoCD, FluxCD)**  
-- **CI/CD automation (GitHub Actions, Jenkins, GitLab, Buildkite)**  
-- **Python + Go for cloud-native tooling**
+* **Reliability:** Implementing SLIs/SLOs, Error Budgets, and automated incident response.
+* **Scalability:** Managing multi-region Kubernetes clusters (AKS/EKS/GKE) and high-traffic cloud networking.
+* **Developer Experience:** Building "Golden Paths" using Backstage, Terraform, and GitOps.
 
-I focus on simplifying developer workflows, improving reliability, and creating internal platforms that make engineering teams faster and more productive.
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🛠 Tech Stack
 
-### **Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="45"/>
-</p>
-
-### **Containers & Orchestration**
-<p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,nomad" height="45"/>
-</p>
-
-### **IaC, GitOps & Automation**
-<p>
-  <img src="https://skillicons.dev/icons?i=terraform,githubactions,gitlab,bash" height="45"/>
-</p>
-
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,go" height="45"/>
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud** | AWS, Azure (Enterprise Scale), Google Cloud Platform |
+| **Orchestration** | Kubernetes, Docker, Nomad|
+| **Infrastructure** | Terraform, Pulumi, Crossplane, Ansible, Helm, Kustomize |
+| **CI/CD / GitOps** | ArgoCD, FluxCD, GitHub Actions, GitLab CI, Buildkite |
+| **Observability** | Prometheus, Thanos, Grafana, Loki, Opensearch, ELK Stack, Datadog, OpenTelemetry |
+| **Languages** | Go (Operator SDK), Python (FastAPI/Automation), Bash |
 
 ---
 
-## 📌 Featured Projects
+## 🏗 Key Projects
 
-### 🔹 **1. Postgres Backup Operator (Go)**
-A Kubernetes operator that automates PostgreSQL backups to S3/Azure Blob with CRDs and reconciliation loops.  
-➡️ Operator SDK • Go • Controller Runtime • CRDs
+### ✅ Completed Projects
+* **Multi-Cluster Metrics Aggregation (Thanos/Prometheus):** Engineered a centralized observability platform across 10+ global clusters using Thanos to provide long-term storage and a single pane of glass for Grafana dashboards.
+* **Kubernetes Postgres Backup Operator (Go):** Developed a custom Go-based operator using the Controller-Runtime to manage automated database snapshots and offsite S3/Azure Blob syncing via CRDs.
+* **Enterprise Hub-Spoke AKS Architecture:** Designed a private-link-first network topology for Azure, securing traffic with AGIC (Application Gateway) and ensuring zero-trust communication via Calico policies.
+* **Automated FinOps Dashboard:** Built a Python tool integrated with AWS/Azure Billing APIs to identify orphaned resources and idle clusters, reducing cloud spend by 22% annually.
 
----
-
-### 🔹 **2. AKS Production Architecture (Terraform)**
-Enterprise-grade AKS with:
-- Hub–Spoke network  
-- Private AKS  
-- Application Gateway Ingress Controller (AGIC)  
-- Azure Container Registry (private endpoint)  
-- GitOps with ArgoCD  
-➡️ Azure • Terraform • Kubernetes • ArgoCD
+### 🏗 Ongoing & Active Development
+* **Internal Developer Portal (Backstage):** Architecting a self-service portal that allows developers to spin up ephemeral environments and RDS instances with a single click using Crossplane.
+* **Chaos Engineering Framework:** Implementing LitmusChaos experiments into CI/CD pipelines to validate service resilience against pod evictions and network latency.
+* **Multi-Cloud GitOps Controller:** Building a custom controller in Go to synchronize secrets and configurations across disparate EKS and AKS environments seamlessly.
 
 ---
 
-### 🔹 **3. Dev Portal Platform (Backstage + GitOps)**
-Internal Developer Platform providing:
-- Self-service environment creation  
-- Golden paths (Terraform + Helm templates)  
-- Automated deployments via GitOps  
-➡️ Backstage • ArgoCD • Terraform • Platform Engineering
-
----
-
-## 📊 GitHub Stats
+## 📊 Performance & Impact
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muntashir&theme=tokyonight" width="55%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntashir&layout=compact&theme=tokyonight" width="40%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muntashir&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntashir&layout=compact&theme=tokyonight" width="45%"/>
 </p>
 
 ---
 
-## 🎯 Currently Working On
-
-- Building Kubernetes Operators in **Go**
-- Advanced Azure architecture (networking, identity, AKS)
-- Multi-cloud GitOps with EKS + AKS  
-- Platform Engineering tooling (Backstage, golden paths)
+## 🎯 Current Focus
+- 🦀 Learning **Rust** for high-performance systems tooling.
+- ☸️ Deep diving into **eBPF** for advanced network observability.
+- ☁️ Scaling **Platform Engineering** as a product within organizations.
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect with Me
 
-- **LinkedIn:** https://linkedin.com/in/muntashir.islam 
-- **Email:** islam.muntashir@gmail.com 
-- Open to: **Senior DevOps • Platform Engineer • Cloud Engineering • SRE roles**
+- **LinkedIn:** [linkedin.com/in/muntashir-islam](https://linkedin.com/in/muntashir.islam)
+- **Email:** [islam.muntashir@gmail.com](mailto:islam.muntashir@gmail.com)
+- **Availability:** Open to discussing **Senior SRE, Platform Architect, or Cloud Engineering** opportunities.
 
 ---
-
-⭐ **If you like my work, consider giving my repos a star!**
+<p align="center"><i>"Automate everything, document the rest."</i></p>
