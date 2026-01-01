@@ -38,8 +38,8 @@ I am a **Platform-focused SRE** dedicated to building resilient distributed syst
 
 ### ✅ Completed Projects
 * **Multi-Cluster Metrics Aggregation (Thanos/Prometheus):** Engineered a centralized observability platform across 10+ global clusters using Thanos to provide long-term storage and a single pane of glass for Grafana dashboards.
-* **Kubernetes Operator for Timebased Scalling (Go):** Developed a kubernetes operator that can scale workloads during specific time in the day, optimized cost for dev cluster by scaling down workload 
-* **Kubernetes Postgres Backup Operator (Go):** Developed a custom Go-based operator using the Controller-Runtime to manage automated database snapshots and offsite S3/Azure Blob syncing via CRDs.
+* **Kubernetes Operator for Timebased Scalling (Go):** Developed a kubernetes operator that can scale workloads during specific time in the day, optimized 35% cost for dev cluster by scaling down workload 
+* **Kubernetes Postgres Backup Operator (Go):** Developed a custom Go-based operator using the Controller-Runtime to manage automated database snapshots and offsite S3/Azure Blob syncing via CRDs which increase reliability by 50%.
 * **Enterprise Hub-Spoke AKS Architecture:** Designed a private-link-first network topology for Azure, securing traffic with AGIC (Application Gateway) and ensuring zero-trust communication via Calico policies.
 * **Automated FinOps Dashboard:** Built a Python tool integrated with AWS/Azure Billing APIs to identify orphaned resources and idle clusters, reducing cloud spend by 22% annually.
 
